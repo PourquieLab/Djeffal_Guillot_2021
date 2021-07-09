@@ -24,7 +24,6 @@ pip install jupyterlab
 pip install wot
 pip install scrublet
 pip install bbknn
-pip install gseapy
 ```
 
 Run the JupyterLab notebooks
