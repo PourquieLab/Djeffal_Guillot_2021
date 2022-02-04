@@ -2,7 +2,7 @@
 
 scRNA-seq data analysis for figures appearing in the following publication:
 
-xxx insert publication link here xxx
+xxx https://elifesciences.org/articles/64819 xxx
 
 Start by cloning this repository using git:
 ```
